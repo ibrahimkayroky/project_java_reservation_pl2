@@ -1,0 +1,5 @@
+1:ID
+omar:Name
+20:Age
+2000:Salary
+

@@ -1,0 +1,10 @@
+13:RoomNo
+Double:TypeRoom
+Avaliable:CaseOfRoom
+3000:Cost
+
+15:RoomNo
+single:TypeRoom
+Avaliable:CaseOfRoom
+1500:Cost
+
